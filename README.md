@@ -1,2 +1,4 @@
 # rust-log-macros
-a collection of useful rust logging macros
+
+A collection of useful rust logging macros
+
